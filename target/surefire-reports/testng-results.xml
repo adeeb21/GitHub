@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="42" started-at="2021-03-29T17:56:39Z" finished-at="2021-03-29T17:56:39Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="42" started-at="2021-03-29T17:56:39Z" finished-at="2021-03-29T17:56:39Z">
+      <class name="Maven.MavenProj.SeleniumTest">
+        <test-method status="PASS" signature="methodThree()[pri:0, instance:Maven.MavenProj.SeleniumTest@148080bb]" name="methodThree" duration-ms="0" started-at="2021-03-29T17:56:39Z" finished-at="2021-03-29T17:56:39Z">
+        </test-method> <!-- methodThree -->
+      </class> <!-- Maven.MavenProj.SeleniumTest -->
+      <class name="Maven.MavenProj.APITest">
+        <test-method status="PASS" signature="methodOne()[pri:0, instance:Maven.MavenProj.APITest@64bfbc86]" name="methodOne" duration-ms="17" started-at="2021-03-29T17:56:39Z" finished-at="2021-03-29T17:56:39Z">
+        </test-method> <!-- methodOne -->
+      </class> <!-- Maven.MavenProj.APITest -->
+      <class name="Maven.MavenProj.AppiumTest">
+        <test-method status="PASS" signature="methodTwo()[pri:0, instance:Maven.MavenProj.AppiumTest@dc24521]" name="methodTwo" duration-ms="1" started-at="2021-03-29T17:56:39Z" finished-at="2021-03-29T17:56:39Z">
+        </test-method> <!-- methodTwo -->
+      </class> <!-- Maven.MavenProj.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
